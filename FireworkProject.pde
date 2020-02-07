@@ -1,7 +1,4 @@
-//Name: Jared Weyer, Andy Reding, Andrew Carlson
-//Class: CPSC 211 01
-//Assigment: Homework 7 Final Project 
-//Theme: Celebratioin
+//Author: Jared Weyer
 //Date: 12/2/2019
 
 //This program creates a firework animation 
